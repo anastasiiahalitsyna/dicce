@@ -1,0 +1,30 @@
+.front {
+  background-color: #99C4C8;
+  text-align: center;
+}
+
+.title {
+  margin-top: auto;
+  color: #242F9B;
+  font-family: 'Bebas Neue', cursive;
+  font-size: 6rem;
+}
+
+.dice {
+  font-family: 'Bebas Neue', cursive;
+  font-size: 3rem;
+  color: #22577E;
+  text-align: center;
+  display: inline-block;
+}
+
+img {
+  width: 80%;
+}
+
+footer {
+  margin-top: 5%;
+  color: #EEEEEE;
+  text-align: center;
+  font-family: 'Indie Flower', cursive;
+}
